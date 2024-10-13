@@ -333,16 +333,14 @@ button {
     float: left;
     padding-bottom: 160px;
 }
-.small-heading {
-    font-size: 21px; /* Adjust the size as needed */
-}
+
 
 .banner_taital {
     width: 100%;
     float: left;
     color: #fff;
     font-weight: bold;
-    font-size: 90px;
+    font-size: 60px;
 }
 
 .banner_text {
